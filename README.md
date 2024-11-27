@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me: support@zhrxxgroup.com
 - 😄 Pronouns: He/Him
