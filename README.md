@@ -36,7 +36,7 @@ Hi! I'm **zhrexx**, a systems developer passionate about **low-level programming
 > A custom server protocol enhancing performance and flexibility.
 
 **Technologies:** C, Networking, Raw Sockets  
-[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/Zwl)
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrxxgroup/Zwl)
 
 ---
 
