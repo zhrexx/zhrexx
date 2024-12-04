@@ -1,5 +1,5 @@
 ---
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Creative+Coder+%7C+Open-Source+Enthusiast&descAlignY=65&descAlign=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Creative+Coder+%7C+Open-Source+Enthusiast&descAlignY=65&descAlign=50)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Passionate+about+Innovation;Building+Custom+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG">
