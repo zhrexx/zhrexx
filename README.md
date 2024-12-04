@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **zhrexx**, a systems developer passionate about **low-level programming**, **networking**, and crafting tools that optimize performance and flexibility.
+Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **networking**, and crafting tools that optimize performance and flexibility.
 
 - 🔧 **Currently Working On:**  
   - **Zwl**: A custom server protocol replacing HTTP, optimized for robust networking.  
@@ -16,7 +16,7 @@ Hi! I'm **zhrexx**, a systems developer passionate about **low-level programming
 
 - 🌟 **Core Values:** Elegance in code, performance, and meaningful open-source contributions.  
 - 🛠️ **Tools I Love:** C, Rust, Python, and Linux.  
-- 📚 **Learning Focus:** Advanced networking protocols, raw sockets, and scalable system design.
+- 📚 **Learning Focus:** Advanced networking protocols, raw sockets.
 
 ---
 
