@@ -8,37 +8,51 @@
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **networking**, and crafting tools that optimize performance and flexibility.
+Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **networking**, **Programming Languages**, and crafting tools that optimize performance.
 
-- 🔧 **Currently Working On:**  
-  - **Zwl**: A custom server protocol replacing HTTP, optimized for robust networking.  
-  - **samba.h**: A modular build system tailored for dynamic configurations.
+- 🔧 **Currently Working On:**
+    - **Zwl**: A custom server protocol replacing HTTP, optimized for robust networking.
+    - **samba.h**: A modular build system tailored for dynamic configurations.
 
-- 🌟 **Core Values:** Elegance in code, performance, and meaningful open-source contributions.  
-- 🛠️ **Tools I Love:** C, Rust, Python, and Linux.  
+- 🌟 **Core Values:** Elegance in code, performance, and meaningful open-source contributions.
+- 🛠️ **Tools I Love:** C, Rust, Python, and Linux.
 - 📚 **Learning Focus:** Advanced networking protocols, raw sockets.
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Web-02599C?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Lua-314572?style=for-the-badge&logo=lua&logoColor=white" />
-</p>
+### Favorite Programming Languages
+<img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-Lua-314572?style=for-the-badge&logo=lua&logoColor=white" />
+
+### Other Programming Languages I know
+<img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Web-02599C?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
+### Libraries
+<img src="https://img.shields.io/badge/-libc-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-GTK4-0A6E4F?style=for-the-badge&logo=gnome&logoColor=white" />
+<img src="https://img.shields.io/badge/-libcurl-52A1A1?style=for-the-badge&logo=curl&logoColor=white" />
+
+### OS
+<img src="https://img.shields.io/badge/-Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux_6.12.10--200.x86__64-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ---
 
 ## 🚀 Featured Projects
-### 🔗 **Zwl**
-> A custom server protocol enhancing performance and flexibility.
 
-**Technologies:** C, Networking, Raw Sockets  
-[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrxxgroup/Zwl)
+### </> **OrtaVM**
+> A Virtual Machine with his own Assembly
+
+> Able to compile to a elf64 executable
+> | Has its own Bytecode | The Bytecode files are small | Has beautiful Error Handling
+
+**Technologies:** C, VM, Programming Language, Bytecode  
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/OrtaVM)
 
 ---
 
@@ -47,6 +61,14 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 
 **Technologies:** C, Dynamic Build Systems, Automation  
 [![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrxxgroup/samba.h)
+
+---
+
+### 🔗 **Zwl**
+> A custom server protocol enhancing performance and flexibility.
+
+**Technologies:** C, Networking, Raw Sockets  
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrxxgroup/Zwl)
 
 ---
 
@@ -67,7 +89,7 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
   <a href="mailto:info@zhrxxgroup.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=email&logoColor=white">
   </a>
-  
+
   <a href="https://zhrxxgroup.com">
     <img src="https://img.shields.io/badge/-Website-58A6FF?style=for-the-badge&logo=website&logoColor=white">
   </a>
