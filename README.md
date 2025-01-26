@@ -28,6 +28,7 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
   <img src="https://img.shields.io/badge/-Web-02599C?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Lua-314572?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 ---
