@@ -70,7 +70,7 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 > A dynamic build system.
 
 **Technologies:** C, Dynamic Build Systems, Automation  
-[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrxxgroup/samba.h)
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/samba.h)
 
 ---
 
