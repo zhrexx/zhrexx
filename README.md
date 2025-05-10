@@ -14,7 +14,7 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming** and d
   - **OrtaVM**: A Virtual Machine with its own programming language (Nyva) and Assembly also it supports native compilation
   - **MicroForge**: A collection of my (not only) useful libraries.
 
-- 🌟 **Core Values:** Elegance in code, performance
+- 🌟 **Core Values:** Elegance in code, performance, small size and speed
 - 🛠️ **Tools I Love:** C, Lua, Linux, Fasm and Zig
 - 🛠️ **Tools I Hate:** Assembly (Nasm, GAS) 
 
