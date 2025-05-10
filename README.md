@@ -11,12 +11,12 @@
 Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **networking**, **Programming Languages**, and crafting tools that optimize performance.
 
 - 🔧 **Currently Working On:**
-  - **OrtaVM**: A Virtual Machine with its own programming language
-  - **samba.h**: A modular build system tailored for dynamic configurations.
+  - **OrtaVM**: A Virtual Machine with its own programming language (Nyva) and Assembly also it supports native compilation
+  - **MicroForge**: A collection of my (not only) useful libraries.
 
 - 🌟 **Core Values:** Elegance in code, performance
-- 🛠️ **Tools I Love:** C, Lua, and Linux.
-- 🛠️ **Tools I Hate:** Assembly 
+- 🛠️ **Tools I Love:** C, Lua, Linux, Fasm and Zig
+- 🛠️ **Tools I Hate:** Assembly (Nasm, GAS) 
 
 ---
 
@@ -66,11 +66,11 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 
 ---
 
-### ⚡ **samba.h**
-> A dynamic build system.
+### ⚡ **MicroForge**
+> A collection of my own(not only) useful libraries.
 
-**Technologies:** C, Dynamic Build Systems, Automation  
-[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/samba.h)
+**Technologies:** LibC and others  
+[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/MicroForge)
 
 ---
 
