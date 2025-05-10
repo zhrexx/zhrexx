@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **networking**, **Programming Languages**, and crafting tools that optimize performance.
+Hi! I'm **zhrexx**, a developer passionate about **low-level programming** and developing **not only useful but also sometimes fun tools and libraries**.
 
 - 🔧 **Currently Working On:**
   - **OrtaVM**: A Virtual Machine with its own programming language (Nyva) and Assembly also it supports native compilation
@@ -23,7 +23,9 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 ## 🛠️ Tech Stack
 ### Favorite Programming Languages
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.wikipedia.org/wiki/Lua&ved=2ahUKEwinnqSclZaLAxX_0AIHHeS_Ev0QFnoECBcQAQ&usg=AOvVaw1P9-pGceGEKZJ3YkhcsWZE"><img src="https://img.shields.io/badge/-Lua-314572?style=for-the-badge&logo=lua&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Lua"><img src="https://img.shields.io/badge/-Lua-314572?style=for-the-badge&logo=lua&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/Zig"><img src="https://img.shields.io/badge/-Zig-760123?style=for-the-badge&logo=zig&logoColor=white" /></a>
+
 
 ### Other Programming Languages I know
 <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
@@ -37,9 +39,10 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 <a href="https://en.wikipedia.org/wiki/GNU_C_Library"><img src="https://img.shields.io/badge/-libc-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/GTK#GTK_4"><img src="https://img.shields.io/badge/-GTK4-0A6E4F?style=for-the-badge&logo=gnome&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/libcurl"><img src="https://img.shields.io/badge/-libcurl-52A1A1?style=for-the-badge&logo=curl&logoColor=white" /></a>
+<a href="https://en.wikipedia.org/wiki/tcc"><img src="https://img.shields.io/badge/-libtcc-52A1A1?style=for-the-badge&logo=tcc&logoColor=white" /></a>
+
 
 ### Tools
-<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://img.shields.io/badge/-RustRover-DEA584?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/DNF_(software)"><img src="https://img.shields.io/badge/-DNF5-2C3E50?style=for-the-badge&logo=fedora&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/GDB"><img src="https://img.shields.io/badge/-gdb-007ACC?style=for-the-badge&logo=gnu&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Valgrind"><img src="https://img.shields.io/badge/-valgrind-4E9A06?style=for-the-badge&logo=linux&logoColor=white" /></a>
@@ -56,10 +59,8 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 ## 🚀 Featured Projects
 
 ### </> **OrtaVM**
-> A Virtual Machine with his own Assembly
-
-> Able to compile to a elf64 executable
-> | Has its own Bytecode | The Bytecode files are small | Has beautiful Error Handling
+> A Virtual Machine with his own Assembly and a dynamic Programming Language (that checks all (also args count) at runtime BRUH)
+> | Has its own Bytecode | Native Compilation | Has beautiful Error Handling | Crossplatform
 
 **Technologies:** C, VM, Programming Language, Bytecode  
 [![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/OrtaVM)
@@ -90,10 +91,6 @@ Hi! I'm **zhrexx**, a developer passionate about **low-level programming**, **ne
 <p align="center">
   <a href="mailto:info@zhrxxgroup.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=email&logoColor=white">
-  </a>
-
-  <a href="https://zhrxxgroup.com">
-    <img src="https://img.shields.io/badge/-Website-58A6FF?style=for-the-badge&logo=website&logoColor=white">
   </a>
 </p>
 
