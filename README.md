@@ -1,104 +1,133 @@
----
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome!&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Creative+Coder+%7C+Open-Source+Enthusiast&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=zhrexx&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Low-Level%20Developer%20%7C%20VM%20Architect%20%7C%20Performance%20Enthusiast&descAlignY=65&descAlign=50)
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=800&color=F75C7E&center=true&vCenter=true&width=500&height=50&lines=Passionate+about+Innovation;Building+Custom+Solutions;Welcome+to+my+GitHub!" alt="Typing SVG">
-  </p>
-
----
-
-## 👨‍💻 About Me
-Hi! I'm **zhrexx**, a developer passionate about **low-level programming** and developing **not only useful but also sometimes fun tools and libraries**.
-
-- 🔧 **Currently Working On:**
-  - **OrtaVM**: A Virtual Machine with its own programming language (Nyva) and Assembly also it supports native compilation
-  - **MicroForge**: A collection of my (not only) useful libraries.
-
-- 🌟 **Core Values:** Elegance in code, performance, small size and speed
-- 🛠️ **Tools I Love:** C, Lua, Linux, Fasm and Zig
-- 🛠️ **Tools I Hate:** Assembly (Nasm, GAS) 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=Building+Virtual+Machines;Crafting+Low-Level+Solutions;Optimizing+for+Performance;Welcome+to+my+Code!" alt="Typing Animation">
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-### Favorite Programming Languages
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Lua"><img src="https://img.shields.io/badge/-Lua-314572?style=for-the-badge&logo=lua&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Zig"><img src="https://img.shields.io/badge/-Zig-760123?style=for-the-badge&logo=zig&logoColor=white" /></a>
+## 🎯 About Me
 
+**Passionate low-level developer** focused on **virtual machines**, **custom tooling**, and **performance-critical systems**. I believe in writing elegant, fast code that pushes the boundaries of what's possible.
 
-### Other Programming Languages I know
-<a href="https://en.wikipedia.org/wiki/Rust_(programming_language)"><img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-Web-02599C?style=for-the-badge&logo=javascript&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Assembly_language"><img src="https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logoColor=white" /></a>
+**🔥 Current Projects:**
+- **OrtaVM** - Custom VM with Nyva programming language + native compilation
+- **MicroForge** - Collection of high-performance utility libraries
 
-### Libraries
-<a href="https://en.wikipedia.org/wiki/GNU_C_Library"><img src="https://img.shields.io/badge/-libc-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/GTK#GTK_4"><img src="https://img.shields.io/badge/-GTK4-0A6E4F?style=for-the-badge&logo=gnome&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/libcurl"><img src="https://img.shields.io/badge/-libcurl-52A1A1?style=for-the-badge&logo=curl&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/tcc"><img src="https://img.shields.io/badge/-libtcc-52A1A1?style=for-the-badge&logo=tcc&logoColor=white" /></a>
+**💫 Core Philosophy:** *Elegance • Performance • Minimalism*
 
+---
 
-### Tools
-<a href="https://en.wikipedia.org/wiki/DNF_(software)"><img src="https://img.shields.io/badge/-DNF5-2C3E50?style=for-the-badge&logo=fedora&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/GDB"><img src="https://img.shields.io/badge/-gdb-007ACC?style=for-the-badge&logo=gnu&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Valgrind"><img src="https://img.shields.io/badge/-valgrind-4E9A06?style=for-the-badge&logo=linux&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Xxd"><img src="https://img.shields.io/badge/-xxd-DD4C35?style=for-the-badge&logo=linux&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/LuaRocks"><img src="https://img.shields.io/badge/-LuaRocks-2C2D72?style=for-the-badge&logo=lua&logoColor=white" /></a>
+## ⚡ Tech Arsenal
 
+### **Primary Stack**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-### OS
-<a href="https://en.wikipedia.org/wiki/Fedora_(operating_system)"><img src="https://img.shields.io/badge/-Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/Linux_kernel"><img src="https://img.shields.io/badge/-Linux_6.12.10--200.x86__64-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+### **Secondary Languages**
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### **Tools & Environment**
+![Fedora](https://img.shields.io/badge/Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB-FF6B6B?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-4ECDC4?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### </> **OrtaVM**
-> A Virtual Machine with his own Assembly and a dynamic Programming Language (that checks all (also args count) at runtime BRUH)
-> | Has its own Bytecode | Native Compilation | Has beautiful Error Handling | Crossplatform
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:** C, VM, Programming Language, Bytecode  
-[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/OrtaVM)
+### 🔥 **OrtaVM**
+**Custom Virtual Machine Implementation**
 
----
+- ⚡ Own bytecode format & assembly language
+- 🎯 Nyva programming language with runtime checks
+- 🚀 Native compilation support
+- 🎨 Beautiful error handling system
+- 🌐 Cross-platform compatibility
+
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/zhrexx/OrtaVM)
+
+</td>
+<td width="50%">
 
 ### ⚡ **MicroForge**
-> A collection of my own(not only) useful libraries.
+**High-Performance Utility Libraries**
 
-**Technologies:** LibC and others  
-[![View Project](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge)](https://github.com/zhrexx/MicroForge)
+- 📦 Curated collection of optimized libraries
+- 🔧 Focus on performance and minimal footprint
+- 🎯 Production-ready components
+- 📚 Comprehensive documentation
 
----
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/zhrexx/MicroForge)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhrexx&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhrexx&theme=radical" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhrexx&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophies">
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Get in Touch
-<p align="center">
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhrexx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhrexx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhrexx&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="49%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhrexx&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" width="49%">
+</div>
+
+### 🏆 Achievement Showcase
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhrexx&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+### 📈 Contribution Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zhrexx&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zhrexx&theme=tokyonight" alt="Profile Summary" width="49%">
+</div>
+
+---
+
+## 🌟 Quick Facts
+
+```yaml
+name: zhrexx
+located_in: Code & Creativity
+current_focus: Virtual Machines & Low-Level Optimization
+learning: Advanced Compiler Techniques
+hobbies: [Performance Tuning, System Architecture, Open Source]
+motto: "Elegance in simplicity, power in precision"
+```
+
+---
+
+## 📬 Connect
+
+<div align="center">
   <a href="mailto:info@zhrxxgroup.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=email&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=zhrexx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=500&color=58A6FF&center=true&width=600&lines=Thank+you+for+visiting!;Let's+collaborate+and+build+amazing+projects!" alt="Thank You">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=4000&pause=1000&color=667EEA&center=true&width=700&lines=Thanks+for+stopping+by!;Let's+build+something+incredible+together;Happy+coding!+🚀" alt="Farewell Message">
+</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
