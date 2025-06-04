@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=zhrexx&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Low-Level%20Developer%20%7C%20VM%20Architect%20%7C%20Performance%20Enthusiast&descAlignY=65&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=zhrexx&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Low-Level%20Developer%20%7C%20Performance%20Enthusiast&descAlignY=65&descAlign=50)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=60&lines=Crafting+Low-Level+Solutions;Optimizing+for+Performance;Welcome+to+my+Code!" alt="Typing Animation">
