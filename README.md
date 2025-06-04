@@ -51,9 +51,8 @@
 **Custom Virtual Machine Implementation**
 
 - ⚡ Own bytecode format & assembly language
-- 🎯 Nyva programming language with runtime checks
+- 🎯 Nyva programming language
 - 🚀 Native compilation support
-- 🎨 Beautiful error handling system
 - 🌐 Cross-platform compatibility
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/zhrexx/OrtaVM)
@@ -66,8 +65,6 @@
 
 - 📦 Curated collection of optimized libraries
 - 🔧 Focus on performance and minimal footprint
-- 🎯 Production-ready components
-- 📚 Comprehensive documentation
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/zhrexx/MicroForge)
 
@@ -106,10 +103,8 @@
 
 ```yaml
 name: zhrexx
-located_in: Code & Creativity
-current_focus: Virtual Machines & Low-Level Optimization
-learning: Advanced Compiler Techniques
-hobbies: [Performance Tuning, System Architecture, Open Source]
+located_in: Germany
+hobbies: [Writing small, fast and elegant software]
 motto: "Elegance in simplicity, power in precision"
 ```
 
@@ -118,7 +113,7 @@ motto: "Elegance in simplicity, power in precision"
 ## 📬 Connect
 
 <div align="center">
-  <a href="mailto:info@zhrxxgroup.com">
+  <a href="mailto:moretzjan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://komarev.com/ghpvc/?username=zhrexx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
