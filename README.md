@@ -34,7 +34,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Tools & Environment**
-![Fedora](https://img.shields.io/badge/Fedora_41-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora_42-294172?style=for-the-badge&logo=fedora&logoColor=white) 
+![KDE Plasma 5](https://img.shields.io/badge/KDE_Plasma_5-294172?style=for-the-badge&logo=kde&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GDB](https://img.shields.io/badge/GDB-FF6B6B?style=for-the-badge&logo=gnu&logoColor=white)
 ![Valgrind](https://img.shields.io/badge/Valgrind-4ECDC4?style=for-the-badge&logo=linux&logoColor=white)
