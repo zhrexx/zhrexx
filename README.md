@@ -12,7 +12,7 @@
 
 **🔥 Current Projects:**
 - **OrtaVM** - Custom VM with Nyva programming language + native compilation
-- **MicroForge** - Collection of high-performance utility libraries
+- **MicroForge** - Collection of high-performance utilies and libraries
 
 **💫 Core Philosophy:** *Elegance • Performance • Minimalism*
 
@@ -64,7 +64,7 @@
 ### ⚡ **MicroForge**
 **High-Performance Utility Libraries**
 
-- 📦 Curated collection of optimized libraries
+- 📦 Curated collection of optimized libraries and cool utilities 
 - 🔧 Focus on performance and minimal footprint
 
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/zhrexx/MicroForge)
