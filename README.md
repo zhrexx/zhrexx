@@ -6,7 +6,7 @@
 
 ---
 
-[![About Me](https://img.shields.io/badge/About_Page-Visit-blue?style=for-the-badge)](https://about.zhrexx.com/)
+[![About Me/My homepage](https://img.shields.io/badge/About_Page-Visit-blue?style=for-the-badge)](https://zhrexx.com/)
 [![My Blog](https://img.shields.io/badge/Blog-Visit-blue?style=for-the-badge)](https://blog.zhrexx.com/)
 
 ## 📊 GitHub Analytics
