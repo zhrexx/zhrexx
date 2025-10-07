@@ -48,7 +48,7 @@ motto: "Elegance in simplicity, power in precision"
 ## 📬 Connect
 
 <div align="center">
-  <a href="mail.zhrexx.com">
+  <a href="mailto:me@zhrexx.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <img src="https://komarev.com/ghpvc/?username=zhrexx&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
